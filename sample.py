@@ -1,1 +1,1 @@
-qwertyuiop
+printf("hello world")
